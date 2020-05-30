@@ -5,7 +5,7 @@ C# Ardunio logger for board that is designed in order to measure system room tem
 There are 2 sensors to have failover in case one of them has failure. 
 ![alt text](http://umitunal.org/wp-content/uploads/2016/05/20160527_165110.jpg)
 
-##Program output
+## Program output
 ![alt text](http://umitunal.org/wp-content/uploads/2016/05/ardunio2.png)
 
 ## Sent E-mail when AC has failure
